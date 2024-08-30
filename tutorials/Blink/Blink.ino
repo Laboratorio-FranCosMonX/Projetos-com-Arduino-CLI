@@ -1,3 +1,4 @@
+#define LED_BUILTIN 13
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
